@@ -1,3 +1,20 @@
+```console
+vinícius@github:~$ whoami
+Vinícius Linares Mendonça
+
+vinícius@github:~$ ./job
+Automação/Linux/Kubernetes Squads @ T-Systems do Brasil
+→ Mercedes-Benz do Brasil
+
+vinícius@github:~$ skills
+Linux • Kubernetes • Observabilidade
+Automação • Infraestrutura como Código • Cloud
+
+vinícius@github:~$ education
+Analise e Desenvolvimento de Sistemas - FAM
+
+```
+
 <div align="center">
 
 # 👋 Olá, eu sou o Vinicius Linares Mendonça

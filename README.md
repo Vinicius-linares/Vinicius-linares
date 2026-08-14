@@ -7,8 +7,8 @@ Automação/Linux/Kubernetes Squads @ T-Systems do Brasil
 → Mercedes-Benz do Brasil
 
 vinícius@github:~$ skills
-Linux • Kubernetes • Observabilidade
-Automação • Infraestrutura como Código • Cloud
+Linux • Kubernetes • Cloud
+Automação • Infraestrutura como Código • 
 
 vinícius@github:~$ education
 Analise e Desenvolvimento de Sistemas - FAM
